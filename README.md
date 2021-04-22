@@ -1,4 +1,4 @@
-- 👋 Хай, Я Lamenich (или LaMea, или LeMeow, или Lameni, или Lame)
+- 👋 Хай, Я Lamenich (или LaMea, или LaMeow, или Lameni, или Lame)
 - 👀 Я немножечко заинтересован в сайтиках, гыг
 - 🌱 В данный момент знаю немножечко Python и HTML c CSS (хтмл и ксс не яп :) )
 - 🏫 Учусь всё ещё в школе
