@@ -4,5 +4,8 @@ I am Lameni (Neko-Lameni) and I am 13 years old. I'm a high school student who k
 ## Exaples of web sites:
 * https://lamenich.github.io/lite-site - my personal web page
 
+## Contacts
+[Telegram](https://t.me/links_lamenis), [Youtube](https://www.youtube.com/channel/UCz6LTgGF6dl_1teOWxeNrbQ), [VK](https://vk.com/lame_ni), [Mail](mailto:litesite@protonmail.com)
+
 ## Languages
-Russian, a little in English 
+Russian, a little in English
