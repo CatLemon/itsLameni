@@ -38,4 +38,4 @@ I am Lameni (Neko-Lameni) and I am 13 years old. I'm a high school student who k
    - RAM: 4 GB (3,4gb, because the 512 MB GPU still takes away)
    - GPU: AMD Radeon Graphics Vega 3
    - Storage: SSD 128 gb (Samsung, OEM)
-   - OS: Windows 11 Home, on an external hard drive (Seagate Expansion+ 1 TB) installed Kubuntu 20.10
+   - OS: Windows 10 LTSC, on an external hard drive (Seagate Expansion+ 1 TB) installed now nothing
