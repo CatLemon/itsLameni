@@ -22,9 +22,9 @@ I am Lameni (Neko-Lameni) and I am 13 years old. I'm a high school student who k
 
 ### Phones
 
-1. Redmi 9T
+1. Redmi 9T NFC
 
-   Unlocked and rooted, miui 12.5
+   Unlocked and rooted, ArrowOS Android 11
 
    Helping mostly in termux, however helping and in linux-arm (proot-distro in termux moment xD)
 
@@ -38,4 +38,4 @@ I am Lameni (Neko-Lameni) and I am 13 years old. I'm a high school student who k
    - RAM: 4 GB (3,4gb, because the 512 MB GPU still takes away)
    - GPU: AMD Radeon Graphics Vega 3
    - Storage: SSD 128 gb (Samsung, OEM)
-   - OS: Windows 10 LTSC, on an external hard drive (Seagate Expansion+ 1 TB) installed now nothing
+   - OS: Windows 10 Home Single Language (Russian)
