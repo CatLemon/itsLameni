@@ -23,9 +23,9 @@ I am Lameni (Neko-Lameni) and I am 13 years old. I'm a high school student who k
 
 ### Phones
 
-1. Redmi 9T NFC
+1. Redmi 9T Global
 
-   Unlocked and rooted, ArrowOS Android 11
+   Unlocked and rooted, MIUI 12.5 xiaomi.eu (localized china rom)
 
    Helping mostly in termux, however helping and in linux-arm (proot-distro in termux moment xD)
 
@@ -33,7 +33,7 @@ I am Lameni (Neko-Lameni) and I am 13 years old. I'm a high school student who k
 
 #### HP 15s-eq1355ur
 
-1. Laptop Specifications
+Laptop Specifications
 
    - CPU: AMD Athlon Gold 3150U
    - RAM: 4 GB (3,4gb, because the 512 MB GPU still takes away)
