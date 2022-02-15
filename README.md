@@ -1,18 +1,13 @@
 # Hello! 👋
 
-I am Lameni (Neko-Lameni) and I am 14 years old. I'm a high school student who knows a little about building websites. I know too little Python, I want to learn: JavaScript, Java, and possibly PHP. If there is no laziness 🤣
+I am Mr.Cat and I am 16 ears old. I'm a high school student who knows a little about building websites. 
 
-## Exaples of web sites
-
-- [LameHub](https://lamenich.github.io/lamehub) - my dungeon
-(гачи крики)
 
 ## Contacts
 
-- [Telegram](https://t.me/Kot3ron)
-- [Youtube](https://www.youtube.com/channel/UCz6LTgGF6dl_1teOWxeNrbQ)
-- [VK](https://vk.com/lame_ni)
-- [Mail](mailto:neyzeeldemon@gmail.com)
+- [Telegram](https://t.me/JuiceLemon9T)
+- [VK](https://vk.com/danya_stepanov2022)
+- [Mail](mailto:danya_danilov1@vk.com)
 
 ## Languages
 
@@ -25,18 +20,22 @@ I am Lameni (Neko-Lameni) and I am 14 years old. I'm a high school student who k
 
 1. Redmi 9T Global
 
-   Unlocked and rooted, MIUI 12.5 xiaomi.eu (localized china rom)
+   Unlocked and rooted, AwakenOS 2.4 Aurora | Android 12 |MооooonMod
 
-   Helping mostly in termux, however helping and in linux-arm (proot-distro in termux moment xD)
+2. Huawei Y3II 4G 
+   Locked and unrooted, shit. 
 
 ### Laptops
 
-#### HP 15s-eq1355ur
+#### HP 15-bw661ur
 
 Laptop Specifications
 
-   - CPU: AMD Athlon Gold 3150U
-   - RAM: 4 GB (3,4gb, because the 512 MB GPU still takes away)
-   - GPU: AMD Radeon Graphics Vega 3
-   - Storage: SSD 128 gb (Samsung, OEM)
-   - OS: Windows 10 Home Single Language (Russian)
+  AMD A9-9420 RADEON R5. 5 COMPUTECORES 2 C+3G 3.00 GHz Processor
+8.00 GB RAM (available: 7.47 GB)
+
+System type 64-bit operating system, x64 processor
+Pen and touch input Pen and touch input are not available for this monitor
+GPU AMD Radeon (TM) R5 M330 (2GB VideoRAM)
+HDD1: 931GB (Seagate)
+HDD2: 931GB (TOSHIBA)
