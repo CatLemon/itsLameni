@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Mr.Cat and I am 16 ears old. I'm a high school student who knows a little about building websites. 
+I am Mr.Cat and I am 16 years old. I'm a high school student who knows a little about building websites. 
 
 
 ## Contacts
