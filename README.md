@@ -20,7 +20,7 @@ I am Mr.Cat and I am 16 ears old. I'm a high school student who knows a little a
 
 1. Redmi 9T Global
 
-   Unlocked and rooted, AwakenOS 2.4 Aurora | Android 12 |MооooonMod
+   Unlocked and rooted, Xiaomi.EU, MIUI 13 (A11)
 
 2. Huawei Y3II 4G 
    Locked and unrooted, shit. 
