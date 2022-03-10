@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Mr.Cat and I am 16 years old. I'm a high school student who knows a little about building websites. 
+I am Mr.Cat and I am 17 years old. I'm a high school student who knows a little about building websites. 
 
 
 ## Contacts
@@ -20,7 +20,7 @@ I am Mr.Cat and I am 16 years old. I'm a high school student who knows a little 
 
 1. Redmi 9T Global
 
-   Unlocked and rooted, Xiaomi.EU, MIUI 13 (A11)
+   Unlocked, Official EEA, MIUI 12.5 (A11)
 
 2. Huawei Y3II 4G 
    Locked and unrooted, shit. 
