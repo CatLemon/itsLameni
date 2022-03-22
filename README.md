@@ -1,40 +1,40 @@
-# Hello! 👋
+# Привет! 👋
 
-I am Mr.Cat and I am 17 years old. I'm a high school student who knows a little about building websites. 
+Меня зовут Даня и мне 17 лет. Я старшеклассник, который немного разбирается в создании веб-сайтов. 
 
 
-## Contacts
+## Контакты
 
 - [Telegram](https://t.me/AveLemon_Links)
 - [VK](https://vk.com/danya_stepanov2022)
 - [Mail](mailto:danya_danilov1@vk.com)
 
-## Languages
+## Языки
 
-- Russian
+- Русский
 - A little in English
 
-## Gadgets
+## Гаджеты
 
-### Phones
+### Телефоны
 
 1. Redmi 9T Global
 
-   Unlocked, Official EEA, MIUI 12 (A10)
+   Разблокирован, Официальная Глобальная, MIUI 12 (A10)
 
 2. Huawei Y3II 4G 
-   Locked and unrooted, argh. 
+   Заблокирован и не рутирован, черт. 
 
-### Laptops
+### ноуты
 
 #### HP 15-bw661ur
 
-Laptop Specifications
+Характеристики ноута
 
-  AMD A9-9420 RADEON R5. 5 COMPUTECORES 2 C+3G 3.00 GHz Processor
-8.00 GB RAM (available: 7.47 GB)
+  AMD A9-9420 RADEON R5. 5 COMPUTECORES 2 C+3G 3.00 GHz процессор
+8.00 GB RAM (доступно: 7.47 GB)
 
-System type 64-bit operating system, x64 processor
+Тип системы 64-bit операционная система, x64 процессор
 GPU AMD Radeon (TM) R5 M330 (2GB VideoRAM)
 HDD1: 931GB (Seagate)
 HDD2: 931GB (TOSHIBA)
