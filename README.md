@@ -5,7 +5,7 @@ I am Mr.Cat and I am 17 years old. I'm a high school student who knows a little 
 
 ## Contacts
 
-- [Telegram](https://t.me/JuiceLemon9T)
+- [Telegram](https://t.me/AveLemon_Links)
 - [VK](https://vk.com/danya_stepanov2022)
 - [Mail](mailto:danya_danilov1@vk.com)
 
@@ -20,7 +20,7 @@ I am Mr.Cat and I am 17 years old. I'm a high school student who knows a little 
 
 1. Redmi 9T Global
 
-   Unlocked, Official EEA, MIUI 12.5 (A11)
+   Unlocked, Official EEA, MIUI 12 (A10)
 
 2. Huawei Y3II 4G 
    Locked and unrooted, argh. 
