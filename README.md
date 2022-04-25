@@ -5,7 +5,7 @@
 
 ## Контакты
 
-- [Telegram](https://t.me/AveLemon_Links)
+- [Telegram](https://sites.google.com/view/biografy-lemon/главная-страница)
 - [VK](https://vk.com/danya_stepanov2022)
 - [Mail](mailto:danya_danilov1@vk.com)
 
@@ -20,7 +20,7 @@
 
 1. Redmi 9T Global
 
-   Разблокирован, Официальная Глобальная, MIUI 12 (A10)
+   Разблокирован, Репак Legendary, MIUI 12.5 (A11)
 
 2. Huawei Y3II 4G 
    Заблокирован и не рутирован, черт. 
